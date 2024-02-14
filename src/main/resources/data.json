@@ -1,0 +1,3193 @@
+{
+  "transactions": [
+    {
+      "id": "ts-1-1",
+      "customerId": 1,
+      "amount": 374,
+      "points": 598,
+      "date": "2024-02-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-1",
+      "customerId": 2,
+      "amount": 377,
+      "points": 604,
+      "date": "2024-02-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-1",
+      "customerId": 3,
+      "amount": 172,
+      "points": 194,
+      "date": "2024-02-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-1",
+      "customerId": 4,
+      "amount": 77,
+      "points": 27,
+      "date": "2024-02-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-1",
+      "customerId": 5,
+      "amount": 89,
+      "points": 39,
+      "date": "2024-02-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-2",
+      "customerId": 1,
+      "amount": 185,
+      "points": 220,
+      "date": "2024-02-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-2",
+      "customerId": 2,
+      "amount": 153,
+      "points": 156,
+      "date": "2024-02-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-2",
+      "customerId": 3,
+      "amount": 188,
+      "points": 226,
+      "date": "2024-02-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-2",
+      "customerId": 4,
+      "amount": 447,
+      "points": 744,
+      "date": "2024-02-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-2",
+      "customerId": 5,
+      "amount": 35,
+      "points": 0,
+      "date": "2024-02-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-3",
+      "customerId": 1,
+      "amount": 438,
+      "points": 726,
+      "date": "2024-02-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-3",
+      "customerId": 2,
+      "amount": 304,
+      "points": 458,
+      "date": "2024-02-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-3",
+      "customerId": 3,
+      "amount": 241,
+      "points": 332,
+      "date": "2024-02-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-3",
+      "customerId": 4,
+      "amount": 68,
+      "points": 18,
+      "date": "2024-02-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-3",
+      "customerId": 5,
+      "amount": 198,
+      "points": 246,
+      "date": "2024-02-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-4",
+      "customerId": 1,
+      "amount": 282,
+      "points": 414,
+      "date": "2024-02-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-4",
+      "customerId": 2,
+      "amount": 106,
+      "points": 62,
+      "date": "2024-02-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-4",
+      "customerId": 3,
+      "amount": 84,
+      "points": 34,
+      "date": "2024-02-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-4",
+      "customerId": 4,
+      "amount": 10,
+      "points": 0,
+      "date": "2024-02-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-4",
+      "customerId": 5,
+      "amount": 407,
+      "points": 664,
+      "date": "2024-02-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-5",
+      "customerId": 1,
+      "amount": 304,
+      "points": 458,
+      "date": "2024-02-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-5",
+      "customerId": 2,
+      "amount": 313,
+      "points": 476,
+      "date": "2024-02-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-5",
+      "customerId": 3,
+      "amount": 86,
+      "points": 36,
+      "date": "2024-02-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-5",
+      "customerId": 4,
+      "amount": 431,
+      "points": 712,
+      "date": "2024-02-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-5",
+      "customerId": 5,
+      "amount": 188,
+      "points": 226,
+      "date": "2024-02-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-6",
+      "customerId": 1,
+      "amount": 321,
+      "points": 492,
+      "date": "2024-02-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-6",
+      "customerId": 2,
+      "amount": 376,
+      "points": 602,
+      "date": "2024-02-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-6",
+      "customerId": 3,
+      "amount": 214,
+      "points": 278,
+      "date": "2024-02-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-6",
+      "customerId": 4,
+      "amount": 404,
+      "points": 658,
+      "date": "2024-02-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-6",
+      "customerId": 5,
+      "amount": 451,
+      "points": 752,
+      "date": "2024-02-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-7",
+      "customerId": 1,
+      "amount": 256,
+      "points": 362,
+      "date": "2024-02-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-7",
+      "customerId": 2,
+      "amount": 57,
+      "points": 7,
+      "date": "2024-02-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-7",
+      "customerId": 3,
+      "amount": 59,
+      "points": 9,
+      "date": "2024-02-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-7",
+      "customerId": 4,
+      "amount": 171,
+      "points": 192,
+      "date": "2024-02-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-7",
+      "customerId": 5,
+      "amount": 354,
+      "points": 558,
+      "date": "2024-02-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-8",
+      "customerId": 1,
+      "amount": 134,
+      "points": 118,
+      "date": "2024-02-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-8",
+      "customerId": 2,
+      "amount": 282,
+      "points": 414,
+      "date": "2024-02-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-8",
+      "customerId": 3,
+      "amount": 387,
+      "points": 624,
+      "date": "2024-02-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-8",
+      "customerId": 4,
+      "amount": 349,
+      "points": 548,
+      "date": "2024-02-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-8",
+      "customerId": 5,
+      "amount": 375,
+      "points": 600,
+      "date": "2024-02-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-9",
+      "customerId": 1,
+      "amount": 477,
+      "points": 804,
+      "date": "2024-02-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-9",
+      "customerId": 2,
+      "amount": 259,
+      "points": 368,
+      "date": "2024-02-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-9",
+      "customerId": 3,
+      "amount": 407,
+      "points": 664,
+      "date": "2024-02-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-9",
+      "customerId": 4,
+      "amount": 416,
+      "points": 682,
+      "date": "2024-02-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-9",
+      "customerId": 5,
+      "amount": 28,
+      "points": 0,
+      "date": "2024-02-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-10",
+      "customerId": 1,
+      "amount": 252,
+      "points": 354,
+      "date": "2024-02-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-10",
+      "customerId": 2,
+      "amount": 173,
+      "points": 196,
+      "date": "2024-02-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-10",
+      "customerId": 3,
+      "amount": 100,
+      "points": 50,
+      "date": "2024-02-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-10",
+      "customerId": 4,
+      "amount": 311,
+      "points": 472,
+      "date": "2024-02-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-10",
+      "customerId": 5,
+      "amount": 361,
+      "points": 572,
+      "date": "2024-02-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-11",
+      "customerId": 1,
+      "amount": 488,
+      "points": 826,
+      "date": "2024-02-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-11",
+      "customerId": 2,
+      "amount": 487,
+      "points": 824,
+      "date": "2024-02-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-11",
+      "customerId": 3,
+      "amount": 216,
+      "points": 282,
+      "date": "2024-02-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-11",
+      "customerId": 4,
+      "amount": 368,
+      "points": 586,
+      "date": "2024-02-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-11",
+      "customerId": 5,
+      "amount": 389,
+      "points": 628,
+      "date": "2024-02-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-12",
+      "customerId": 1,
+      "amount": 438,
+      "points": 726,
+      "date": "2024-02-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-12",
+      "customerId": 2,
+      "amount": 171,
+      "points": 192,
+      "date": "2024-02-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-12",
+      "customerId": 3,
+      "amount": 412,
+      "points": 674,
+      "date": "2024-02-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-12",
+      "customerId": 4,
+      "amount": 322,
+      "points": 494,
+      "date": "2024-02-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-12",
+      "customerId": 5,
+      "amount": 125,
+      "points": 100,
+      "date": "2024-02-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-13",
+      "customerId": 1,
+      "amount": 37,
+      "points": 0,
+      "date": "2024-02-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-13",
+      "customerId": 2,
+      "amount": 209,
+      "points": 268,
+      "date": "2024-02-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-13",
+      "customerId": 3,
+      "amount": 225,
+      "points": 300,
+      "date": "2024-02-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-13",
+      "customerId": 4,
+      "amount": 69,
+      "points": 19,
+      "date": "2024-02-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-13",
+      "customerId": 5,
+      "amount": 308,
+      "points": 466,
+      "date": "2024-02-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-14",
+      "customerId": 1,
+      "amount": 368,
+      "points": 586,
+      "date": "2024-01-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-14",
+      "customerId": 2,
+      "amount": 317,
+      "points": 484,
+      "date": "2024-01-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-14",
+      "customerId": 3,
+      "amount": 451,
+      "points": 752,
+      "date": "2024-01-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-14",
+      "customerId": 4,
+      "amount": 321,
+      "points": 492,
+      "date": "2024-01-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-14",
+      "customerId": 5,
+      "amount": 65,
+      "points": 15,
+      "date": "2024-01-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-15",
+      "customerId": 1,
+      "amount": 183,
+      "points": 216,
+      "date": "2024-01-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-15",
+      "customerId": 2,
+      "amount": 142,
+      "points": 134,
+      "date": "2024-01-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-15",
+      "customerId": 3,
+      "amount": 188,
+      "points": 226,
+      "date": "2024-01-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-15",
+      "customerId": 4,
+      "amount": 406,
+      "points": 662,
+      "date": "2024-01-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-15",
+      "customerId": 5,
+      "amount": 84,
+      "points": 34,
+      "date": "2024-01-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-16",
+      "customerId": 1,
+      "amount": 453,
+      "points": 756,
+      "date": "2024-01-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-16",
+      "customerId": 2,
+      "amount": 31,
+      "points": 0,
+      "date": "2024-01-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-16",
+      "customerId": 3,
+      "amount": 314,
+      "points": 478,
+      "date": "2024-01-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-16",
+      "customerId": 4,
+      "amount": 260,
+      "points": 370,
+      "date": "2024-01-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-16",
+      "customerId": 5,
+      "amount": 467,
+      "points": 784,
+      "date": "2024-01-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-17",
+      "customerId": 1,
+      "amount": 404,
+      "points": 658,
+      "date": "2024-01-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-17",
+      "customerId": 2,
+      "amount": 137,
+      "points": 124,
+      "date": "2024-01-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-17",
+      "customerId": 3,
+      "amount": 123,
+      "points": 96,
+      "date": "2024-01-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-17",
+      "customerId": 4,
+      "amount": 250,
+      "points": 350,
+      "date": "2024-01-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-17",
+      "customerId": 5,
+      "amount": 355,
+      "points": 560,
+      "date": "2024-01-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-18",
+      "customerId": 1,
+      "amount": 472,
+      "points": 794,
+      "date": "2024-01-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-18",
+      "customerId": 2,
+      "amount": 147,
+      "points": 144,
+      "date": "2024-01-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-18",
+      "customerId": 3,
+      "amount": 361,
+      "points": 572,
+      "date": "2024-01-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-18",
+      "customerId": 4,
+      "amount": 325,
+      "points": 500,
+      "date": "2024-01-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-18",
+      "customerId": 5,
+      "amount": 162,
+      "points": 174,
+      "date": "2024-01-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-19",
+      "customerId": 1,
+      "amount": 169,
+      "points": 188,
+      "date": "2024-01-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-19",
+      "customerId": 2,
+      "amount": 166,
+      "points": 182,
+      "date": "2024-01-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-19",
+      "customerId": 3,
+      "amount": 141,
+      "points": 132,
+      "date": "2024-01-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-19",
+      "customerId": 4,
+      "amount": 205,
+      "points": 260,
+      "date": "2024-01-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-19",
+      "customerId": 5,
+      "amount": 110,
+      "points": 70,
+      "date": "2024-01-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-20",
+      "customerId": 1,
+      "amount": 401,
+      "points": 652,
+      "date": "2024-01-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-20",
+      "customerId": 2,
+      "amount": 26,
+      "points": 0,
+      "date": "2024-01-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-20",
+      "customerId": 3,
+      "amount": 434,
+      "points": 718,
+      "date": "2024-01-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-20",
+      "customerId": 4,
+      "amount": 66,
+      "points": 16,
+      "date": "2024-01-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-20",
+      "customerId": 5,
+      "amount": 354,
+      "points": 558,
+      "date": "2024-01-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-21",
+      "customerId": 1,
+      "amount": 108,
+      "points": 66,
+      "date": "2024-01-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-21",
+      "customerId": 2,
+      "amount": 492,
+      "points": 834,
+      "date": "2024-01-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-21",
+      "customerId": 3,
+      "amount": 500,
+      "points": 850,
+      "date": "2024-01-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-21",
+      "customerId": 4,
+      "amount": 326,
+      "points": 502,
+      "date": "2024-01-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-21",
+      "customerId": 5,
+      "amount": 362,
+      "points": 574,
+      "date": "2024-01-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-22",
+      "customerId": 1,
+      "amount": 21,
+      "points": 0,
+      "date": "2024-01-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-22",
+      "customerId": 2,
+      "amount": 327,
+      "points": 504,
+      "date": "2024-01-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-22",
+      "customerId": 3,
+      "amount": 286,
+      "points": 422,
+      "date": "2024-01-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-22",
+      "customerId": 4,
+      "amount": 415,
+      "points": 680,
+      "date": "2024-01-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-22",
+      "customerId": 5,
+      "amount": 206,
+      "points": 262,
+      "date": "2024-01-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-23",
+      "customerId": 1,
+      "amount": 285,
+      "points": 420,
+      "date": "2024-01-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-23",
+      "customerId": 2,
+      "amount": 55,
+      "points": 5,
+      "date": "2024-01-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-23",
+      "customerId": 3,
+      "amount": 229,
+      "points": 308,
+      "date": "2024-01-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-23",
+      "customerId": 4,
+      "amount": 447,
+      "points": 744,
+      "date": "2024-01-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-23",
+      "customerId": 5,
+      "amount": 154,
+      "points": 158,
+      "date": "2024-01-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-24",
+      "customerId": 1,
+      "amount": 114,
+      "points": 78,
+      "date": "2024-01-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-24",
+      "customerId": 2,
+      "amount": 350,
+      "points": 550,
+      "date": "2024-01-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-24",
+      "customerId": 3,
+      "amount": 259,
+      "points": 368,
+      "date": "2024-01-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-24",
+      "customerId": 4,
+      "amount": 260,
+      "points": 370,
+      "date": "2024-01-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-24",
+      "customerId": 5,
+      "amount": 238,
+      "points": 326,
+      "date": "2024-01-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-25",
+      "customerId": 1,
+      "amount": 185,
+      "points": 220,
+      "date": "2024-01-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-25",
+      "customerId": 2,
+      "amount": 460,
+      "points": 770,
+      "date": "2024-01-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-25",
+      "customerId": 3,
+      "amount": 261,
+      "points": 372,
+      "date": "2024-01-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-25",
+      "customerId": 4,
+      "amount": 188,
+      "points": 226,
+      "date": "2024-01-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-25",
+      "customerId": 5,
+      "amount": 449,
+      "points": 748,
+      "date": "2024-01-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-26",
+      "customerId": 1,
+      "amount": 430,
+      "points": 710,
+      "date": "2024-01-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-26",
+      "customerId": 2,
+      "amount": 403,
+      "points": 656,
+      "date": "2024-01-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-26",
+      "customerId": 3,
+      "amount": 109,
+      "points": 68,
+      "date": "2024-01-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-26",
+      "customerId": 4,
+      "amount": 194,
+      "points": 238,
+      "date": "2024-01-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-26",
+      "customerId": 5,
+      "amount": 9,
+      "points": 0,
+      "date": "2024-01-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-27",
+      "customerId": 1,
+      "amount": 147,
+      "points": 144,
+      "date": "2024-01-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-27",
+      "customerId": 2,
+      "amount": 90,
+      "points": 40,
+      "date": "2024-01-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-27",
+      "customerId": 3,
+      "amount": 325,
+      "points": 500,
+      "date": "2024-01-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-27",
+      "customerId": 4,
+      "amount": 27,
+      "points": 0,
+      "date": "2024-01-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-27",
+      "customerId": 5,
+      "amount": 39,
+      "points": 0,
+      "date": "2024-01-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-28",
+      "customerId": 1,
+      "amount": 75,
+      "points": 25,
+      "date": "2024-01-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-28",
+      "customerId": 2,
+      "amount": 162,
+      "points": 174,
+      "date": "2024-01-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-28",
+      "customerId": 3,
+      "amount": 96,
+      "points": 46,
+      "date": "2024-01-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-28",
+      "customerId": 4,
+      "amount": 260,
+      "points": 370,
+      "date": "2024-01-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-28",
+      "customerId": 5,
+      "amount": 9,
+      "points": 0,
+      "date": "2024-01-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-29",
+      "customerId": 1,
+      "amount": 380,
+      "points": 610,
+      "date": "2024-01-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-29",
+      "customerId": 2,
+      "amount": 409,
+      "points": 668,
+      "date": "2024-01-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-29",
+      "customerId": 3,
+      "amount": 19,
+      "points": 0,
+      "date": "2024-01-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-29",
+      "customerId": 4,
+      "amount": 293,
+      "points": 436,
+      "date": "2024-01-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-29",
+      "customerId": 5,
+      "amount": 7,
+      "points": 0,
+      "date": "2024-01-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-30",
+      "customerId": 1,
+      "amount": 42,
+      "points": 0,
+      "date": "2024-01-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-30",
+      "customerId": 2,
+      "amount": 352,
+      "points": 554,
+      "date": "2024-01-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-30",
+      "customerId": 3,
+      "amount": 68,
+      "points": 18,
+      "date": "2024-01-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-30",
+      "customerId": 4,
+      "amount": 367,
+      "points": 584,
+      "date": "2024-01-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-30",
+      "customerId": 5,
+      "amount": 31,
+      "points": 0,
+      "date": "2024-01-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-31",
+      "customerId": 1,
+      "amount": 42,
+      "points": 0,
+      "date": "2024-01-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-31",
+      "customerId": 2,
+      "amount": 333,
+      "points": 516,
+      "date": "2024-01-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-31",
+      "customerId": 3,
+      "amount": 103,
+      "points": 56,
+      "date": "2024-01-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-31",
+      "customerId": 4,
+      "amount": 165,
+      "points": 180,
+      "date": "2024-01-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-31",
+      "customerId": 5,
+      "amount": 343,
+      "points": 536,
+      "date": "2024-01-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-32",
+      "customerId": 1,
+      "amount": 413,
+      "points": 676,
+      "date": "2024-01-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-32",
+      "customerId": 2,
+      "amount": 99,
+      "points": 49,
+      "date": "2024-01-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-32",
+      "customerId": 3,
+      "amount": 442,
+      "points": 734,
+      "date": "2024-01-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-32",
+      "customerId": 4,
+      "amount": 468,
+      "points": 786,
+      "date": "2024-01-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-32",
+      "customerId": 5,
+      "amount": 226,
+      "points": 302,
+      "date": "2024-01-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-33",
+      "customerId": 1,
+      "amount": 279,
+      "points": 408,
+      "date": "2024-01-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-33",
+      "customerId": 2,
+      "amount": 387,
+      "points": 624,
+      "date": "2024-01-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-33",
+      "customerId": 3,
+      "amount": 75,
+      "points": 25,
+      "date": "2024-01-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-33",
+      "customerId": 4,
+      "amount": 376,
+      "points": 602,
+      "date": "2024-01-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-33",
+      "customerId": 5,
+      "amount": 220,
+      "points": 290,
+      "date": "2024-01-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-34",
+      "customerId": 1,
+      "amount": 378,
+      "points": 606,
+      "date": "2024-01-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-34",
+      "customerId": 2,
+      "amount": 94,
+      "points": 44,
+      "date": "2024-01-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-34",
+      "customerId": 3,
+      "amount": 162,
+      "points": 174,
+      "date": "2024-01-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-34",
+      "customerId": 4,
+      "amount": 49,
+      "points": 0,
+      "date": "2024-01-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-34",
+      "customerId": 5,
+      "amount": 77,
+      "points": 27,
+      "date": "2024-01-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-35",
+      "customerId": 1,
+      "amount": 74,
+      "points": 24,
+      "date": "2024-01-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-35",
+      "customerId": 2,
+      "amount": 153,
+      "points": 156,
+      "date": "2024-01-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-35",
+      "customerId": 3,
+      "amount": 57,
+      "points": 7,
+      "date": "2024-01-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-35",
+      "customerId": 4,
+      "amount": 93,
+      "points": 43,
+      "date": "2024-01-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-35",
+      "customerId": 5,
+      "amount": 302,
+      "points": 454,
+      "date": "2024-01-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-36",
+      "customerId": 1,
+      "amount": 280,
+      "points": 410,
+      "date": "2024-01-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-36",
+      "customerId": 2,
+      "amount": 447,
+      "points": 744,
+      "date": "2024-01-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-36",
+      "customerId": 3,
+      "amount": 223,
+      "points": 296,
+      "date": "2024-01-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-36",
+      "customerId": 4,
+      "amount": 364,
+      "points": 578,
+      "date": "2024-01-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-36",
+      "customerId": 5,
+      "amount": 470,
+      "points": 790,
+      "date": "2024-01-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-37",
+      "customerId": 1,
+      "amount": 473,
+      "points": 796,
+      "date": "2024-01-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-37",
+      "customerId": 2,
+      "amount": 465,
+      "points": 780,
+      "date": "2024-01-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-37",
+      "customerId": 3,
+      "amount": 498,
+      "points": 846,
+      "date": "2024-01-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-37",
+      "customerId": 4,
+      "amount": 490,
+      "points": 830,
+      "date": "2024-01-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-37",
+      "customerId": 5,
+      "amount": 481,
+      "points": 812,
+      "date": "2024-01-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-38",
+      "customerId": 1,
+      "amount": 437,
+      "points": 724,
+      "date": "2024-01-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-38",
+      "customerId": 2,
+      "amount": 419,
+      "points": 688,
+      "date": "2024-01-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-38",
+      "customerId": 3,
+      "amount": 332,
+      "points": 514,
+      "date": "2024-01-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-38",
+      "customerId": 4,
+      "amount": 114,
+      "points": 78,
+      "date": "2024-01-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-38",
+      "customerId": 5,
+      "amount": 257,
+      "points": 364,
+      "date": "2024-01-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-39",
+      "customerId": 1,
+      "amount": 142,
+      "points": 134,
+      "date": "2024-01-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-39",
+      "customerId": 2,
+      "amount": 500,
+      "points": 850,
+      "date": "2024-01-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-39",
+      "customerId": 3,
+      "amount": 303,
+      "points": 456,
+      "date": "2024-01-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-39",
+      "customerId": 4,
+      "amount": 5,
+      "points": 0,
+      "date": "2024-01-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-39",
+      "customerId": 5,
+      "amount": 219,
+      "points": 288,
+      "date": "2024-01-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-40",
+      "customerId": 1,
+      "amount": 437,
+      "points": 724,
+      "date": "2024-01-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-40",
+      "customerId": 2,
+      "amount": 260,
+      "points": 370,
+      "date": "2024-01-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-40",
+      "customerId": 3,
+      "amount": 263,
+      "points": 376,
+      "date": "2024-01-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-40",
+      "customerId": 4,
+      "amount": 96,
+      "points": 46,
+      "date": "2024-01-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-40",
+      "customerId": 5,
+      "amount": 294,
+      "points": 438,
+      "date": "2024-01-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-41",
+      "customerId": 1,
+      "amount": 66,
+      "points": 16,
+      "date": "2024-01-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-41",
+      "customerId": 2,
+      "amount": 7,
+      "points": 0,
+      "date": "2024-01-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-41",
+      "customerId": 3,
+      "amount": 279,
+      "points": 408,
+      "date": "2024-01-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-41",
+      "customerId": 4,
+      "amount": 15,
+      "points": 0,
+      "date": "2024-01-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-41",
+      "customerId": 5,
+      "amount": 196,
+      "points": 242,
+      "date": "2024-01-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-42",
+      "customerId": 1,
+      "amount": 8,
+      "points": 0,
+      "date": "2024-01-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-42",
+      "customerId": 2,
+      "amount": 177,
+      "points": 204,
+      "date": "2024-01-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-42",
+      "customerId": 3,
+      "amount": 325,
+      "points": 500,
+      "date": "2024-01-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-42",
+      "customerId": 4,
+      "amount": 49,
+      "points": 0,
+      "date": "2024-01-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-42",
+      "customerId": 5,
+      "amount": 442,
+      "points": 734,
+      "date": "2024-01-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-43",
+      "customerId": 1,
+      "amount": 389,
+      "points": 628,
+      "date": "2024-01-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-43",
+      "customerId": 2,
+      "amount": 99,
+      "points": 49,
+      "date": "2024-01-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-43",
+      "customerId": 3,
+      "amount": 205,
+      "points": 260,
+      "date": "2024-01-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-43",
+      "customerId": 4,
+      "amount": 21,
+      "points": 0,
+      "date": "2024-01-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-43",
+      "customerId": 5,
+      "amount": 364,
+      "points": 578,
+      "date": "2024-01-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-44",
+      "customerId": 1,
+      "amount": 460,
+      "points": 770,
+      "date": "2024-01-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-44",
+      "customerId": 2,
+      "amount": 317,
+      "points": 484,
+      "date": "2024-01-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-44",
+      "customerId": 3,
+      "amount": 441,
+      "points": 732,
+      "date": "2024-01-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-44",
+      "customerId": 4,
+      "amount": 326,
+      "points": 502,
+      "date": "2024-01-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-44",
+      "customerId": 5,
+      "amount": 409,
+      "points": 668,
+      "date": "2024-01-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-45",
+      "customerId": 1,
+      "amount": 426,
+      "points": 702,
+      "date": "2023-12-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-45",
+      "customerId": 2,
+      "amount": 162,
+      "points": 174,
+      "date": "2023-12-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-45",
+      "customerId": 3,
+      "amount": 258,
+      "points": 366,
+      "date": "2023-12-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-45",
+      "customerId": 4,
+      "amount": 31,
+      "points": 0,
+      "date": "2023-12-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-45",
+      "customerId": 5,
+      "amount": 497,
+      "points": 844,
+      "date": "2023-12-31T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-46",
+      "customerId": 1,
+      "amount": 460,
+      "points": 770,
+      "date": "2023-12-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-46",
+      "customerId": 2,
+      "amount": 487,
+      "points": 824,
+      "date": "2023-12-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-46",
+      "customerId": 3,
+      "amount": 331,
+      "points": 512,
+      "date": "2023-12-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-46",
+      "customerId": 4,
+      "amount": 454,
+      "points": 758,
+      "date": "2023-12-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-46",
+      "customerId": 5,
+      "amount": 65,
+      "points": 15,
+      "date": "2023-12-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-47",
+      "customerId": 1,
+      "amount": 416,
+      "points": 682,
+      "date": "2023-12-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-47",
+      "customerId": 2,
+      "amount": 158,
+      "points": 166,
+      "date": "2023-12-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-47",
+      "customerId": 3,
+      "amount": 332,
+      "points": 514,
+      "date": "2023-12-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-47",
+      "customerId": 4,
+      "amount": 424,
+      "points": 698,
+      "date": "2023-12-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-47",
+      "customerId": 5,
+      "amount": 256,
+      "points": 362,
+      "date": "2023-12-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-48",
+      "customerId": 1,
+      "amount": 42,
+      "points": 0,
+      "date": "2023-12-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-48",
+      "customerId": 2,
+      "amount": 8,
+      "points": 0,
+      "date": "2023-12-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-48",
+      "customerId": 3,
+      "amount": 442,
+      "points": 734,
+      "date": "2023-12-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-48",
+      "customerId": 4,
+      "amount": 469,
+      "points": 788,
+      "date": "2023-12-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-48",
+      "customerId": 5,
+      "amount": 355,
+      "points": 560,
+      "date": "2023-12-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-49",
+      "customerId": 1,
+      "amount": 372,
+      "points": 594,
+      "date": "2023-12-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-49",
+      "customerId": 2,
+      "amount": 135,
+      "points": 120,
+      "date": "2023-12-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-49",
+      "customerId": 3,
+      "amount": 169,
+      "points": 188,
+      "date": "2023-12-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-49",
+      "customerId": 4,
+      "amount": 275,
+      "points": 400,
+      "date": "2023-12-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-49",
+      "customerId": 5,
+      "amount": 120,
+      "points": 90,
+      "date": "2023-12-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-50",
+      "customerId": 1,
+      "amount": 214,
+      "points": 278,
+      "date": "2023-12-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-50",
+      "customerId": 2,
+      "amount": 457,
+      "points": 764,
+      "date": "2023-12-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-50",
+      "customerId": 3,
+      "amount": 363,
+      "points": 576,
+      "date": "2023-12-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-50",
+      "customerId": 4,
+      "amount": 93,
+      "points": 43,
+      "date": "2023-12-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-50",
+      "customerId": 5,
+      "amount": 224,
+      "points": 298,
+      "date": "2023-12-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-51",
+      "customerId": 1,
+      "amount": 384,
+      "points": 618,
+      "date": "2023-12-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-51",
+      "customerId": 2,
+      "amount": 296,
+      "points": 442,
+      "date": "2023-12-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-51",
+      "customerId": 3,
+      "amount": 327,
+      "points": 504,
+      "date": "2023-12-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-51",
+      "customerId": 4,
+      "amount": 337,
+      "points": 524,
+      "date": "2023-12-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-51",
+      "customerId": 5,
+      "amount": 9,
+      "points": 0,
+      "date": "2023-12-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-52",
+      "customerId": 1,
+      "amount": 407,
+      "points": 664,
+      "date": "2023-12-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-52",
+      "customerId": 2,
+      "amount": 357,
+      "points": 564,
+      "date": "2023-12-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-52",
+      "customerId": 3,
+      "amount": 76,
+      "points": 26,
+      "date": "2023-12-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-52",
+      "customerId": 4,
+      "amount": 328,
+      "points": 506,
+      "date": "2023-12-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-52",
+      "customerId": 5,
+      "amount": 114,
+      "points": 78,
+      "date": "2023-12-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-53",
+      "customerId": 1,
+      "amount": 131,
+      "points": 112,
+      "date": "2023-12-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-53",
+      "customerId": 2,
+      "amount": 53,
+      "points": 3,
+      "date": "2023-12-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-53",
+      "customerId": 3,
+      "amount": 373,
+      "points": 596,
+      "date": "2023-12-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-53",
+      "customerId": 4,
+      "amount": 283,
+      "points": 416,
+      "date": "2023-12-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-53",
+      "customerId": 5,
+      "amount": 12,
+      "points": 0,
+      "date": "2023-12-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-54",
+      "customerId": 1,
+      "amount": 164,
+      "points": 178,
+      "date": "2023-12-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-54",
+      "customerId": 2,
+      "amount": 128,
+      "points": 106,
+      "date": "2023-12-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-54",
+      "customerId": 3,
+      "amount": 356,
+      "points": 562,
+      "date": "2023-12-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-54",
+      "customerId": 4,
+      "amount": 136,
+      "points": 122,
+      "date": "2023-12-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-54",
+      "customerId": 5,
+      "amount": 333,
+      "points": 516,
+      "date": "2023-12-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-55",
+      "customerId": 1,
+      "amount": 363,
+      "points": 576,
+      "date": "2023-12-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-55",
+      "customerId": 2,
+      "amount": 395,
+      "points": 640,
+      "date": "2023-12-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-55",
+      "customerId": 3,
+      "amount": 108,
+      "points": 66,
+      "date": "2023-12-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-55",
+      "customerId": 4,
+      "amount": 435,
+      "points": 720,
+      "date": "2023-12-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-55",
+      "customerId": 5,
+      "amount": 488,
+      "points": 826,
+      "date": "2023-12-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-56",
+      "customerId": 1,
+      "amount": 175,
+      "points": 200,
+      "date": "2023-12-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-56",
+      "customerId": 2,
+      "amount": 176,
+      "points": 202,
+      "date": "2023-12-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-56",
+      "customerId": 3,
+      "amount": 264,
+      "points": 378,
+      "date": "2023-12-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-56",
+      "customerId": 4,
+      "amount": 480,
+      "points": 810,
+      "date": "2023-12-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-56",
+      "customerId": 5,
+      "amount": 290,
+      "points": 430,
+      "date": "2023-12-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-57",
+      "customerId": 1,
+      "amount": 211,
+      "points": 272,
+      "date": "2023-12-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-57",
+      "customerId": 2,
+      "amount": 422,
+      "points": 694,
+      "date": "2023-12-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-57",
+      "customerId": 3,
+      "amount": 435,
+      "points": 720,
+      "date": "2023-12-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-57",
+      "customerId": 4,
+      "amount": 481,
+      "points": 812,
+      "date": "2023-12-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-57",
+      "customerId": 5,
+      "amount": 10,
+      "points": 0,
+      "date": "2023-12-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-58",
+      "customerId": 1,
+      "amount": 431,
+      "points": 712,
+      "date": "2023-12-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-58",
+      "customerId": 2,
+      "amount": 120,
+      "points": 90,
+      "date": "2023-12-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-58",
+      "customerId": 3,
+      "amount": 252,
+      "points": 354,
+      "date": "2023-12-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-58",
+      "customerId": 4,
+      "amount": 483,
+      "points": 816,
+      "date": "2023-12-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-58",
+      "customerId": 5,
+      "amount": 226,
+      "points": 302,
+      "date": "2023-12-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-59",
+      "customerId": 1,
+      "amount": 223,
+      "points": 296,
+      "date": "2023-12-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-59",
+      "customerId": 2,
+      "amount": 121,
+      "points": 92,
+      "date": "2023-12-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-59",
+      "customerId": 3,
+      "amount": 435,
+      "points": 720,
+      "date": "2023-12-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-59",
+      "customerId": 4,
+      "amount": 62,
+      "points": 12,
+      "date": "2023-12-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-59",
+      "customerId": 5,
+      "amount": 40,
+      "points": 0,
+      "date": "2023-12-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-60",
+      "customerId": 1,
+      "amount": 445,
+      "points": 740,
+      "date": "2023-12-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-60",
+      "customerId": 2,
+      "amount": 266,
+      "points": 382,
+      "date": "2023-12-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-60",
+      "customerId": 3,
+      "amount": 151,
+      "points": 152,
+      "date": "2023-12-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-60",
+      "customerId": 4,
+      "amount": 456,
+      "points": 762,
+      "date": "2023-12-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-60",
+      "customerId": 5,
+      "amount": 340,
+      "points": 530,
+      "date": "2023-12-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-61",
+      "customerId": 1,
+      "amount": 300,
+      "points": 450,
+      "date": "2023-12-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-61",
+      "customerId": 2,
+      "amount": 459,
+      "points": 768,
+      "date": "2023-12-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-61",
+      "customerId": 3,
+      "amount": 255,
+      "points": 360,
+      "date": "2023-12-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-61",
+      "customerId": 4,
+      "amount": 14,
+      "points": 0,
+      "date": "2023-12-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-61",
+      "customerId": 5,
+      "amount": 470,
+      "points": 790,
+      "date": "2023-12-15T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-62",
+      "customerId": 1,
+      "amount": 165,
+      "points": 180,
+      "date": "2023-12-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-62",
+      "customerId": 2,
+      "amount": 441,
+      "points": 732,
+      "date": "2023-12-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-62",
+      "customerId": 3,
+      "amount": 90,
+      "points": 40,
+      "date": "2023-12-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-62",
+      "customerId": 4,
+      "amount": 191,
+      "points": 232,
+      "date": "2023-12-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-62",
+      "customerId": 5,
+      "amount": 178,
+      "points": 206,
+      "date": "2023-12-14T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-63",
+      "customerId": 1,
+      "amount": 245,
+      "points": 340,
+      "date": "2023-12-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-63",
+      "customerId": 2,
+      "amount": 416,
+      "points": 682,
+      "date": "2023-12-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-63",
+      "customerId": 3,
+      "amount": 278,
+      "points": 406,
+      "date": "2023-12-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-63",
+      "customerId": 4,
+      "amount": 168,
+      "points": 186,
+      "date": "2023-12-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-63",
+      "customerId": 5,
+      "amount": 299,
+      "points": 448,
+      "date": "2023-12-13T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-64",
+      "customerId": 1,
+      "amount": 186,
+      "points": 222,
+      "date": "2023-12-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-64",
+      "customerId": 2,
+      "amount": 28,
+      "points": 0,
+      "date": "2023-12-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-64",
+      "customerId": 3,
+      "amount": 428,
+      "points": 706,
+      "date": "2023-12-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-64",
+      "customerId": 4,
+      "amount": 55,
+      "points": 5,
+      "date": "2023-12-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-64",
+      "customerId": 5,
+      "amount": 160,
+      "points": 170,
+      "date": "2023-12-12T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-65",
+      "customerId": 1,
+      "amount": 452,
+      "points": 754,
+      "date": "2023-12-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-65",
+      "customerId": 2,
+      "amount": 239,
+      "points": 328,
+      "date": "2023-12-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-65",
+      "customerId": 3,
+      "amount": 442,
+      "points": 734,
+      "date": "2023-12-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-65",
+      "customerId": 4,
+      "amount": 372,
+      "points": 594,
+      "date": "2023-12-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-65",
+      "customerId": 5,
+      "amount": 475,
+      "points": 800,
+      "date": "2023-12-11T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-66",
+      "customerId": 1,
+      "amount": 137,
+      "points": 124,
+      "date": "2023-12-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-66",
+      "customerId": 2,
+      "amount": 144,
+      "points": 138,
+      "date": "2023-12-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-66",
+      "customerId": 3,
+      "amount": 359,
+      "points": 568,
+      "date": "2023-12-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-66",
+      "customerId": 4,
+      "amount": 414,
+      "points": 678,
+      "date": "2023-12-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-66",
+      "customerId": 5,
+      "amount": 340,
+      "points": 530,
+      "date": "2023-12-10T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-67",
+      "customerId": 1,
+      "amount": 197,
+      "points": 244,
+      "date": "2023-12-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-67",
+      "customerId": 2,
+      "amount": 190,
+      "points": 230,
+      "date": "2023-12-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-67",
+      "customerId": 3,
+      "amount": 276,
+      "points": 402,
+      "date": "2023-12-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-67",
+      "customerId": 4,
+      "amount": 158,
+      "points": 166,
+      "date": "2023-12-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-67",
+      "customerId": 5,
+      "amount": 18,
+      "points": 0,
+      "date": "2023-12-09T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-68",
+      "customerId": 1,
+      "amount": 78,
+      "points": 28,
+      "date": "2023-12-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-68",
+      "customerId": 2,
+      "amount": 57,
+      "points": 7,
+      "date": "2023-12-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-68",
+      "customerId": 3,
+      "amount": 192,
+      "points": 234,
+      "date": "2023-12-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-68",
+      "customerId": 4,
+      "amount": 412,
+      "points": 674,
+      "date": "2023-12-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-68",
+      "customerId": 5,
+      "amount": 64,
+      "points": 14,
+      "date": "2023-12-08T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-69",
+      "customerId": 1,
+      "amount": 188,
+      "points": 226,
+      "date": "2023-12-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-69",
+      "customerId": 2,
+      "amount": 223,
+      "points": 296,
+      "date": "2023-12-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-69",
+      "customerId": 3,
+      "amount": 365,
+      "points": 580,
+      "date": "2023-12-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-69",
+      "customerId": 4,
+      "amount": 441,
+      "points": 732,
+      "date": "2023-12-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-69",
+      "customerId": 5,
+      "amount": 156,
+      "points": 162,
+      "date": "2023-12-07T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-70",
+      "customerId": 1,
+      "amount": 201,
+      "points": 252,
+      "date": "2023-12-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-70",
+      "customerId": 2,
+      "amount": 389,
+      "points": 628,
+      "date": "2023-12-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-70",
+      "customerId": 3,
+      "amount": 450,
+      "points": 750,
+      "date": "2023-12-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-70",
+      "customerId": 4,
+      "amount": 482,
+      "points": 814,
+      "date": "2023-12-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-70",
+      "customerId": 5,
+      "amount": 195,
+      "points": 240,
+      "date": "2023-12-06T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-71",
+      "customerId": 1,
+      "amount": 198,
+      "points": 246,
+      "date": "2023-12-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-71",
+      "customerId": 2,
+      "amount": 335,
+      "points": 520,
+      "date": "2023-12-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-71",
+      "customerId": 3,
+      "amount": 98,
+      "points": 48,
+      "date": "2023-12-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-71",
+      "customerId": 4,
+      "amount": 364,
+      "points": 578,
+      "date": "2023-12-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-71",
+      "customerId": 5,
+      "amount": 20,
+      "points": 0,
+      "date": "2023-12-05T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-72",
+      "customerId": 1,
+      "amount": 400,
+      "points": 650,
+      "date": "2023-12-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-72",
+      "customerId": 2,
+      "amount": 331,
+      "points": 512,
+      "date": "2023-12-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-72",
+      "customerId": 3,
+      "amount": 167,
+      "points": 184,
+      "date": "2023-12-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-72",
+      "customerId": 4,
+      "amount": 443,
+      "points": 736,
+      "date": "2023-12-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-72",
+      "customerId": 5,
+      "amount": 99,
+      "points": 49,
+      "date": "2023-12-04T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-73",
+      "customerId": 1,
+      "amount": 164,
+      "points": 178,
+      "date": "2023-12-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-73",
+      "customerId": 2,
+      "amount": 364,
+      "points": 578,
+      "date": "2023-12-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-73",
+      "customerId": 3,
+      "amount": 349,
+      "points": 548,
+      "date": "2023-12-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-73",
+      "customerId": 4,
+      "amount": 418,
+      "points": 686,
+      "date": "2023-12-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-73",
+      "customerId": 5,
+      "amount": 262,
+      "points": 374,
+      "date": "2023-12-03T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-74",
+      "customerId": 1,
+      "amount": 59,
+      "points": 9,
+      "date": "2023-12-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-74",
+      "customerId": 2,
+      "amount": 7,
+      "points": 0,
+      "date": "2023-12-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-74",
+      "customerId": 3,
+      "amount": 298,
+      "points": 446,
+      "date": "2023-12-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-74",
+      "customerId": 4,
+      "amount": 153,
+      "points": 156,
+      "date": "2023-12-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-74",
+      "customerId": 5,
+      "amount": 424,
+      "points": 698,
+      "date": "2023-12-02T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-75",
+      "customerId": 1,
+      "amount": 121,
+      "points": 92,
+      "date": "2023-12-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-75",
+      "customerId": 2,
+      "amount": 224,
+      "points": 298,
+      "date": "2023-12-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-75",
+      "customerId": 3,
+      "amount": 325,
+      "points": 500,
+      "date": "2023-12-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-75",
+      "customerId": 4,
+      "amount": 483,
+      "points": 816,
+      "date": "2023-12-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-75",
+      "customerId": 5,
+      "amount": 14,
+      "points": 0,
+      "date": "2023-12-01T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-76",
+      "customerId": 1,
+      "amount": 124,
+      "points": 98,
+      "date": "2023-11-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-76",
+      "customerId": 2,
+      "amount": 119,
+      "points": 88,
+      "date": "2023-11-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-76",
+      "customerId": 3,
+      "amount": 390,
+      "points": 630,
+      "date": "2023-11-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-76",
+      "customerId": 4,
+      "amount": 399,
+      "points": 648,
+      "date": "2023-11-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-76",
+      "customerId": 5,
+      "amount": 7,
+      "points": 0,
+      "date": "2023-11-30T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-77",
+      "customerId": 1,
+      "amount": 17,
+      "points": 0,
+      "date": "2023-11-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-77",
+      "customerId": 2,
+      "amount": 459,
+      "points": 768,
+      "date": "2023-11-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-77",
+      "customerId": 3,
+      "amount": 200,
+      "points": 250,
+      "date": "2023-11-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-77",
+      "customerId": 4,
+      "amount": 263,
+      "points": 376,
+      "date": "2023-11-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-77",
+      "customerId": 5,
+      "amount": 489,
+      "points": 828,
+      "date": "2023-11-29T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-78",
+      "customerId": 1,
+      "amount": 109,
+      "points": 68,
+      "date": "2023-11-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-78",
+      "customerId": 2,
+      "amount": 158,
+      "points": 166,
+      "date": "2023-11-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-78",
+      "customerId": 3,
+      "amount": 180,
+      "points": 210,
+      "date": "2023-11-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-78",
+      "customerId": 4,
+      "amount": 267,
+      "points": 384,
+      "date": "2023-11-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-78",
+      "customerId": 5,
+      "amount": 167,
+      "points": 184,
+      "date": "2023-11-28T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-79",
+      "customerId": 1,
+      "amount": 224,
+      "points": 298,
+      "date": "2023-11-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-79",
+      "customerId": 2,
+      "amount": 423,
+      "points": 696,
+      "date": "2023-11-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-79",
+      "customerId": 3,
+      "amount": 3,
+      "points": 0,
+      "date": "2023-11-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-79",
+      "customerId": 4,
+      "amount": 365,
+      "points": 580,
+      "date": "2023-11-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-79",
+      "customerId": 5,
+      "amount": 436,
+      "points": 722,
+      "date": "2023-11-27T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-80",
+      "customerId": 1,
+      "amount": 397,
+      "points": 644,
+      "date": "2023-11-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-80",
+      "customerId": 2,
+      "amount": 69,
+      "points": 19,
+      "date": "2023-11-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-80",
+      "customerId": 3,
+      "amount": 98,
+      "points": 48,
+      "date": "2023-11-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-80",
+      "customerId": 4,
+      "amount": 98,
+      "points": 48,
+      "date": "2023-11-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-80",
+      "customerId": 5,
+      "amount": 466,
+      "points": 782,
+      "date": "2023-11-26T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-81",
+      "customerId": 1,
+      "amount": 237,
+      "points": 324,
+      "date": "2023-11-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-81",
+      "customerId": 2,
+      "amount": 285,
+      "points": 420,
+      "date": "2023-11-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-81",
+      "customerId": 3,
+      "amount": 241,
+      "points": 332,
+      "date": "2023-11-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-81",
+      "customerId": 4,
+      "amount": 262,
+      "points": 374,
+      "date": "2023-11-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-81",
+      "customerId": 5,
+      "amount": 257,
+      "points": 364,
+      "date": "2023-11-25T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-82",
+      "customerId": 1,
+      "amount": 300,
+      "points": 450,
+      "date": "2023-11-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-82",
+      "customerId": 2,
+      "amount": 483,
+      "points": 816,
+      "date": "2023-11-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-82",
+      "customerId": 3,
+      "amount": 341,
+      "points": 532,
+      "date": "2023-11-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-82",
+      "customerId": 4,
+      "amount": 245,
+      "points": 340,
+      "date": "2023-11-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-82",
+      "customerId": 5,
+      "amount": 103,
+      "points": 56,
+      "date": "2023-11-24T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-83",
+      "customerId": 1,
+      "amount": 356,
+      "points": 562,
+      "date": "2023-11-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-83",
+      "customerId": 2,
+      "amount": 263,
+      "points": 376,
+      "date": "2023-11-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-83",
+      "customerId": 3,
+      "amount": 285,
+      "points": 420,
+      "date": "2023-11-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-83",
+      "customerId": 4,
+      "amount": 415,
+      "points": 680,
+      "date": "2023-11-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-83",
+      "customerId": 5,
+      "amount": 63,
+      "points": 13,
+      "date": "2023-11-23T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-84",
+      "customerId": 1,
+      "amount": 373,
+      "points": 596,
+      "date": "2023-11-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-84",
+      "customerId": 2,
+      "amount": 208,
+      "points": 266,
+      "date": "2023-11-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-84",
+      "customerId": 3,
+      "amount": 25,
+      "points": 0,
+      "date": "2023-11-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-84",
+      "customerId": 4,
+      "amount": 127,
+      "points": 104,
+      "date": "2023-11-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-84",
+      "customerId": 5,
+      "amount": 114,
+      "points": 78,
+      "date": "2023-11-22T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-85",
+      "customerId": 1,
+      "amount": 445,
+      "points": 740,
+      "date": "2023-11-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-85",
+      "customerId": 2,
+      "amount": 249,
+      "points": 348,
+      "date": "2023-11-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-85",
+      "customerId": 3,
+      "amount": 219,
+      "points": 288,
+      "date": "2023-11-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-85",
+      "customerId": 4,
+      "amount": 185,
+      "points": 220,
+      "date": "2023-11-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-85",
+      "customerId": 5,
+      "amount": 170,
+      "points": 190,
+      "date": "2023-11-21T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-86",
+      "customerId": 1,
+      "amount": 361,
+      "points": 572,
+      "date": "2023-11-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-86",
+      "customerId": 2,
+      "amount": 185,
+      "points": 220,
+      "date": "2023-11-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-86",
+      "customerId": 3,
+      "amount": 104,
+      "points": 58,
+      "date": "2023-11-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-86",
+      "customerId": 4,
+      "amount": 178,
+      "points": 206,
+      "date": "2023-11-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-86",
+      "customerId": 5,
+      "amount": 50,
+      "points": 0,
+      "date": "2023-11-20T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-87",
+      "customerId": 1,
+      "amount": 477,
+      "points": 804,
+      "date": "2023-11-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-87",
+      "customerId": 2,
+      "amount": 163,
+      "points": 176,
+      "date": "2023-11-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-87",
+      "customerId": 3,
+      "amount": 54,
+      "points": 4,
+      "date": "2023-11-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-87",
+      "customerId": 4,
+      "amount": 110,
+      "points": 70,
+      "date": "2023-11-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-87",
+      "customerId": 5,
+      "amount": 30,
+      "points": 0,
+      "date": "2023-11-19T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-88",
+      "customerId": 1,
+      "amount": 450,
+      "points": 750,
+      "date": "2023-11-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-88",
+      "customerId": 2,
+      "amount": 40,
+      "points": 0,
+      "date": "2023-11-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-88",
+      "customerId": 3,
+      "amount": 218,
+      "points": 286,
+      "date": "2023-11-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-88",
+      "customerId": 4,
+      "amount": 415,
+      "points": 680,
+      "date": "2023-11-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-88",
+      "customerId": 5,
+      "amount": 124,
+      "points": 98,
+      "date": "2023-11-18T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-89",
+      "customerId": 1,
+      "amount": 188,
+      "points": 226,
+      "date": "2023-11-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-89",
+      "customerId": 2,
+      "amount": 216,
+      "points": 282,
+      "date": "2023-11-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-89",
+      "customerId": 3,
+      "amount": 198,
+      "points": 246,
+      "date": "2023-11-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-89",
+      "customerId": 4,
+      "amount": 98,
+      "points": 48,
+      "date": "2023-11-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-89",
+      "customerId": 5,
+      "amount": 229,
+      "points": 308,
+      "date": "2023-11-17T04:36:38.954Z"
+    },
+    {
+      "id": "ts-1-90",
+      "customerId": 1,
+      "amount": 288,
+      "points": 426,
+      "date": "2023-11-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-2-90",
+      "customerId": 2,
+      "amount": 302,
+      "points": 454,
+      "date": "2023-11-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-3-90",
+      "customerId": 3,
+      "amount": 159,
+      "points": 168,
+      "date": "2023-11-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-4-90",
+      "customerId": 4,
+      "amount": 350,
+      "points": 550,
+      "date": "2023-11-16T04:36:38.954Z"
+    },
+    {
+      "id": "ts-5-90",
+      "customerId": 5,
+      "amount": 478,
+      "points": 806,
+      "date": "2023-11-16T04:36:38.954Z"
+    }
+  ],
+  "totalsByMonth": {
+    "1": {
+      "02-2024": 6098,
+      "01-2024": 11269,
+      "12-2023": 12067,
+      "11-2023": 6650
+    },
+    "2": {
+      "02-2024": 4359,
+      "01-2024": 11165,
+      "12-2023": 11166,
+      "11-2023": 5393
+    },
+    "3": {
+      "02-2024": 3403,
+      "01-2024": 10878,
+      "12-2023": 13706,
+      "11-2023": 3972
+    },
+    "4": {
+      "02-2024": 5133,
+      "01-2024": 9962,
+      "12-2023": 14926,
+      "11-2023": 6124
+    },
+    "5": {
+      "02-2024": 4385,
+      "01-2024": 10584,
+      "12-2023": 10000,
+      "11-2023": 4429
+    }
+  },
+  "totals": {
+    "1": 36084,
+    "2": 32083,
+    "3": 31959,
+    "4": 36145,
+    "5": 29398
+  }
+}
