@@ -18,12 +18,12 @@ public class TransactionsController {
     }
 
     @GetMapping("/totals")
-    public Map<String, Integer> totals() {
+    public Map<Integer, Integer> totals() {
         return TransactionsData.totals();
     }
 
     @GetMapping("/totals-by-month")
-    public Map<String, Map<String, Integer>> totalsByMonth() {
+    public Map<Integer, Map<String, Integer>> totalsByMonth() {
         return TransactionsData.totalsByMonth();
     }
 
